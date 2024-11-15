@@ -1,13 +1,14 @@
 #include <iostream>
 
-using namespace std;
+int 
+main(){
 
-int main(){
+//Cool comment
+//123
+//test
 
 string name;
-cin >> name;
-cout << "Hello World, " << name; //123
-
+std::cin >> name;
+std::cout << "Hello World, " << name;
 return 0;
-
 }
